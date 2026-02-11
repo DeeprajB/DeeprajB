@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**DeeprajB/DeeprajB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer · Flutter App Developer · Next/React Web Dev · FastAPI Backend Developer**
+MSc Artificial Intelligence student @ Munster Technological University
 
-Here are some ideas to get you started:
+From a childhood in the UAE to a CS degree in Goa and now a Master's in AI at MTU Ireland, my journey reflects a global perspective on technology. I specialize in building intelligent systems and scalable software, fueled by a lifelong curiosity for how things work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Currently researching how Dynamic Graph Convolutional Networks can improve the efficiency of Motor Imagery Brain-Computer Interfaces (MI-BCI).
+
+### Featured Work
+
+- [`Portfolio-Project`](https://github.com/DeeprajB/Portfolio-Project) – A CMS-style portfolio admin built with Next.js 13, TypeScript, Prisma, Clerk, and FastAPI that powers dynamic portfolio iterations with rich content management and auto-generated APIs.
+- [`Stocky`](https://github.com/DeeprajB/stocky) – AI-assisted stock prediction dashboard that blends Massive API price feeds with OpenRouter LLM analysis via a modern Next.js 15, HeroUI, and Tailwind CSS interface.
+- [`Car Hire App`](https://github.com/DeeprajB/car_hire_app) – Responsive rental experience concept delivering multi-step booking flows and polished UI purely with HTML, CSS, and vanilla JS.
+- [`Prompty`](https://github.com/DeeprajB/prompty) – Prompt sharing community built on Next.js 13, MongoDB, Tailwind, and OAuth where users can create, refine, and browse AI prompts.
+- [`RecruitEase`](https://github.com/DeeprajB/RecruitEase-Study-Monk) – Study Monk assessment featuring a recruitment platform with candidate search, onboarding flows, and MERN-based backend integration.
+- [`NoteBuddy`](https://github.com/DeeprajB/NoteBuddy) – Full-stack note-taking app that pairs a Quill.js editor with a MERN architecture and Chakra UI for a rich writing experience.
+
+### Tech Stack
+
+- **AI / ML:** Numpy, Pandas, Scikit-learn, TensorFlow
+- **Backend:** FastAPI, Node.js, MongoDB, SQL, PostgreSQL
+- **Frontend & Mobile:** Flutter, Next.js, React.js, React Native, JavaScript, HTML, CSS
+- **Tooling & Platforms:** Prisma, Clerk, Tailwind CSS, shadcn/ui, Zustand, Cloudinary, Bun, Tiptap, TanStack Table, Axios, date-fns
+
+### Achievements & Community
+
+- Meta Front-End Developer – Coursera (2023)
+- Dev Cluster Hackathon – 2nd Prize for Baby&Me (2020)
+- Inspirathon Hackathon – 3rd Prize for ClassBuddy (2021)
+- Girlscript Goa – Photography Lead
+- Savishkaar (Goa College of Engineering Arts & Literature Club) – Assistant Technical Advisor
+
+### Let's Connect
+
+- Email: [deeprajb012@gmail.com](mailto:deeprajb012@gmail.com)
+- LinkedIn: [linkedin.com/in/deepraj-bhosale-70b4ba194](https://www.linkedin.com/in/deepraj-bhosale-70b4ba194/)
+
