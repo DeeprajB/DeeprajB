@@ -20,6 +20,7 @@ From a childhood in the UAE to a CS degree in Goa and now a Master's in AI at MT
 ### 🚀 Featured Work
 
 - [`Portfolio-Project`](https://github.com/DeeprajB/Portfolio-Project) – CMS-style portfolio admin built with Next.js 13, TypeScript, Prisma, Clerk, and FastAPI that powers dynamic portfolio iterations with rich content management and auto-generated APIs.
+- [`remindly`](https://github.com/DeeprajB/remindly) - A seamless, cross-platform reminder application with real-time synchronization, intelligent snoozing, and premium features.
 - [`Stocky`](https://github.com/DeeprajB/stocky) – AI-assisted stock prediction dashboard blending Massive API price feeds with OpenRouter LLM analysis via a modern Next.js 15, HeroUI, and Tailwind CSS interface.
 - [`Car Hire App`](https://github.com/DeeprajB/car_hire_app) – Responsive rental experience concept delivering multi-step booking flows and polished UI purely with HTML, CSS, and vanilla JS.
 - [`Prompty`](https://github.com/DeeprajB/prompty) – Prompt sharing community built on Next.js 13, MongoDB, Tailwind, and OAuth where users can create, refine, and browse AI prompts.
