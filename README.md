@@ -15,7 +15,7 @@ From a childhood in the UAE to a CS degree in Goa and now a Master's in AI at MT
 ### ✨ Snapshot
 
 - 🧠 Research-driven engineer blending AI, brain-computer interfaces, and practical product delivery.
-- 🎓 Lifelong learner who enjoys mentoring teammates, contributing to open source, and refining craft.
+- 🎓 Lifelong learner who enjoys mentoring teammates and refining craft.
 
 ### 🚀 Featured Work
 
